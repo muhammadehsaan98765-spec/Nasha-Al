@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nasha AI</string>
+    <string name="accessibility_service_label">Nasha AI Accessibility</string>
+    <string name="accessibility_service_description">Allows Nasha AI to perform Home, Back, and Recents navigation only. It cannot read screen content.</string>
+
+    <string name="nav_chat">Chat</string>
+    <string name="nav_voice">Voice</string>
+    <string name="nav_actions">Actions</string>
+    <string name="nav_coding">Coding</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About</string>
+
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="export">Export</string>
+    <string name="close">Close</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="ok">OK</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="loading">Loading…</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+
+    <string name="chat_title">Chat</string>
+    <string name="chat_input_hint">Type a message…</string>
+    <string name="chat_clear">Clear chat</string>
+    <string name="chat_read_aloud">Read aloud</string>
+    <string name="chat_action_preview">Action preview</string>
+    <string name="chat_confirm_action">Confirm action</string>
+    <string name="chat_ai_suggestion_rejected">AI suggestion rejected</string>
+    <string name="chat_error_banner">Error</string>
+
+    <string name="voice_title">Voice Assistant</string>
+    <string name="voice_start">Start listening</string>
+    <string name="voice_stop">Stop</string>
+    <string name="voice_use_in_chat">Use in chat</string>
+    <string name="voice_disclosure">Speech recognition may use network services. Urdu offline recognition is not guaranteed.</string>
+    <string name="voice_mic_permission_rationale">Microphone permission is needed to capture your voice. Audio is not recorded in the background.</string>
+    <string name="voice_mic_denied">Microphone permission denied. You can still type your message.</string>
+    <string name="voice_unavailable">Speech recognition is not available on this device.</string>
+
+    <string name="actions_title">Actions</string>
+    <string name="action_open_settings">Open Android Settings</string>
+    <string name="action_open_notification_settings">Notification settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_back">Back</string>
+    <string name="action_recents">Recents</string>
+    <string name="action_open_app_picker">Add app shortcut</string>
+    <string name="action_open_accessibility_settings">Open accessibility settings</string>
+    <string name="action_risk_low">Low risk</string>
+    <string name="action_risk_medium">Medium risk</string>
+    <string name="action_risk_high">High risk</string>
+    <string name="action_success">Action completed</string>
+    <string name="action_failure">Action failed: %1$s</string>
+    <string name="action_accessibility_disabled">Accessibility service is not enabled</string>
+    <string name="action_message_recipient_warning">Recipient is not auto-selected. Choose contact in the target app.</string>
+
+    <string name="app_picker_title">Choose an app</string>
+    <string name="app_picker_search">Search apps…</string>
+    <string name="app_picker_empty">No launchable apps found</string>
+
+    <string name="coding_title">Coding Workspace</string>
+    <string name="coding_language">Language</string>
+    <string name="coding_prompt_hint">Describe the code you want…</string>
+    <string name="coding_generate">Generate</string>
+    <string name="coding_save">Save to workspace</string>
+    <string name="coding_export">Export via SAF</string>
+    <string name="coding_open_external">Open in external editor</string>
+    <string name="coding_note">This does not insert code into Android Studio and does not compile it.</string>
+    <string name="coding_empty">No code generated yet</string>
+
+    <string name="history_title">Chat History</string>
+    <string name="history_empty">No saved sessions yet</string>
+    <string name="history_delete">Delete session</string>
+    <string name="history_clear_all">Clear all history</string>
+    <string name="history_export">Export session</string>
+    <string name="history_load">Load</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_provider">AI provider</string>
+    <string name="settings_section_search">AI &amp; Search configuration</string>
+    <string name="settings_section_language">Language</string>
+    <string name="settings_section_history">History</string>
+    <string name="settings_section_accessibility">Accessibility</string>
+    <string name="settings_section_privacy">Privacy</string>
+    <string name="settings_section_diagnostics">Diagnostics</string>
+
+    <string name="settings_provider_label">Provider</string>
+    <string name="settings_provider_gemini">Gemini</string>
+    <string name="settings_provider_openai">OpenAI-compatible</string>
+    <string name="settings_base_url">Base URL</string>
+    <string name="settings_model">Model</string>
+    <string name="settings_api_key">API key</string>
+    <string name="settings_save_key">Save key</string>
+    <string name="settings_delete_key">Delete key</string>
+    <string name="settings_test_connection">Test connection</string>
+    <string name="settings_key_saved">Key saved</string>
+    <string name="settings_key_deleted">Key deleted</string>
+    <string name="settings_key_disclosure">A key stored on a device cannot be guaranteed secret from a rooted or compromised device.</string>
+
+    <string name="settings_search_engine">Search engine</string>
+    <string name="settings_search_engine_google">Google</string>
+    <string name="settings_search_engine_bing">Bing</string>
+    <string name="settings_search_engine_ddg">DuckDuckGo</string>
+    <string name="settings_search_engine_brave">Brave (API)</string>
+    <string name="settings_search_engine_custom">Custom URL</string>
+    <string name="settings_search_custom_url">Custom search URL template</string>
+    <string name="settings_brave_key">Brave Search API key</string>
+    <string name="settings_result_limit">Result limit (1–20)</string>
+    <string name="settings_safe_search">Safe search</string>
+    <string name="settings_timeout">Request timeout (seconds)</string>
+    <string name="settings_test_search">Test search configuration</string>
+
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_urdu">اردو</string>
+    <string name="settings_language_roman_urdu">Roman Urdu</string>
+
+    <string name="settings_save_history">Save history</string>
+    <string name="settings_clear_history">Clear history</string>
+
+    <string name="settings_accessibility_enabled">Enabled</string>
+    <string name="settings_accessibility_disabled">Disabled</string>
+    <string name="settings_accessibility_explanation">Nasha AI uses accessibility ONLY for Home, Back, and Recents. It cannot read screen content, and it never bypasses the lock screen or captures PINs, passwords, or biometrics.</string>
+
+    <string name="settings_privacy_text">Your API keys are encrypted on this device using Android Keystore. Chat text is sent only to the AI provider you configure. Nasha AI does not upload contacts, SMS, files, or screen content. Message sending is never automatic — you always complete it in the target app.</string>
+
+    <string name="settings_about">About + Diagnostics</string>
+
+    <string name="about_title">About Nasha AI</string>
+    <string name="about_version">Version</string>
+    <string name="about_provider">Provider</string>
+    <string name="about_model">Model</string>
+    <string name="about_has_api_key">API key stored</string>
+    <string name="about_has_search_key">Search key stored</string>
+    <string name="about_accessibility">Accessibility</string>
+    <string name="about_network">Network</string>
+
+    <string name="diag_https_test">HTTPS test</string>
+    <string name="diag_provider_test">Provider test</string>
+    <string name="diag_storage_test">Storage test</string>
+    <string name="diag_accessibility_test">Accessibility test</string>
+    <string name="diag_rotate_keyset">Rotate encryption keyset</string>
+    <string name="diag_export_redacted">Export redacted diagnostics</string>
+    <string name="diag_clear_log">Clear action log</string>
+    <string name="diag_keyset_rotated">Encryption keyset rotated</string>
+
+    <string name="onboarding_welcome">Welcome to Nasha AI</string>
+    <string name="onboarding_welcome_desc">Your multilingual AI assistant. Configure language, provider, and accessibility in three quick steps.</string>
+    <string name="onboarding_step_language">Language</string>
+    <string name="onboarding_step_provider">Provider</string>
+    <string name="onboarding_step_accessibility">Accessibility</string>
+    <string name="onboarding_provider_desc">Choose a provider and paste your API key. Keys stay encrypted on this device.</string>
+    <string name="onboarding_accessibility_desc">Enable accessibility only if you want Home/Back/Recents navigation. It cannot read screen content.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nasha_primary">#6750A4</color>
+    <color name="nasha_secondary">#625B71</color>
+    <color name="nasha_tertiary">#7D5260</color>
+    <color name="nasha_background_dark">#141218</color>
+    <color name="nasha_surface_dark">#1D1B20</color>
+    <color name="nasha_error">#B3261E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

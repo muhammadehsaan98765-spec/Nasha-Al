@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nasha AI</string>
+    <string name="accessibility_service_label">Nasha AI Accessibility</string>
+    <string name="accessibility_service_description">Nasha AI ko sirf Home, Back aur Recents navigation ki ijazat deta hai. Yeh screen content nahi parh sakta.</string>
+
+    <string name="nav_chat">Chat</string>
+    <string name="nav_voice">Awaaz</string>
+    <string name="nav_actions">Aqdaamaat</string>
+    <string name="nav_coding">Coding</string>
+    <string name="nav_history">Tareekh</string>
+    <string name="nav_settings">Tarteebaat</string>
+    <string name="nav_about">Baare Mein</string>
+
+    <string name="send">Bhejein</string>
+    <string name="cancel">Mansookh</string>
+    <string name="confirm">Tasdeeq</string>
+    <string name="save">Mehfooz</string>
+    <string name="delete">Hazaf</string>
+    <string name="clear">Saaf</string>
+    <string name="copy">Naqal</string>
+    <string name="share">Share</string>
+    <string name="export">Barmad</string>
+    <string name="close">Band</string>
+    <string name="retry">Dobara Koshish</string>
+    <string name="dismiss">Barkhaast</string>
+    <string name="ok">Theek</string>
+    <string name="skip">Chhorein</string>
+    <string name="next">Agla</string>
+    <string name="back">Peechhe</string>
+    <string name="done">Mukammal</string>
+    <string name="loading">Load ho raha hai…</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+
+    <string name="chat_title">Chat</string>
+    <string name="chat_input_hint">Paigham likhein…</string>
+    <string name="chat_clear">Chat saaf karein</string>
+    <string name="chat_read_aloud">Buland awaaz mein parhein</string>
+    <string name="chat_action_preview">Iqdam ka pesh manzar</string>
+    <string name="chat_confirm_action">Iqdam ki tasdeeq</string>
+    <string name="chat_ai_suggestion_rejected">AI ki tajweez mustarad</string>
+    <string name="chat_error_banner">Kharabi</string>
+
+    <string name="voice_title">Awaaz Assistant</string>
+    <string name="voice_start">Sunna shuru karein</string>
+    <string name="voice_stop">Rukein</string>
+    <string name="voice_use_in_chat">Chat mein istemaal karein</string>
+
+    <string name="actions_title">Aqdaamaat</string>
+    <string name="action_open_settings">Android tarteebaat kholain</string>
+    <string name="action_home">Home</string>
+    <string name="action_back">Wapas</string>
+    <string name="action_recents">Haal hi</string>
+    <string name="action_open_app_picker">App shortcut shamil karein</string>
+    <string name="action_risk_low">Kam khatra</string>
+    <string name="action_risk_medium">Darmiyana khatra</string>
+    <string name="action_risk_high">Zyada khatra</string>
+
+    <string name="settings_title">Tarteebaat</string>
+    <string name="settings_section_provider">AI Provider</string>
+    <string name="settings_section_language">Zubaan</string>
+    <string name="settings_section_privacy">Razdari</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_urdu">Urdu</string>
+    <string name="settings_language_roman_urdu">Roman Urdu</string>
+
+    <string name="about_title">Nasha AI ke baare mein</string>
+    <string name="onboarding_welcome">Nasha AI mein khush aamdeed</string>
+    <string name="onboarding_welcome_desc">Aap ka kaseer-ul-lisani AI assistant.</string>
+</resources>

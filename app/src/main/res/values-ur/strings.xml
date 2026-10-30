@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نشا اے آئی</string>
+    <string name="accessibility_service_label">نشا اے آئی رسائی</string>
+    <string name="accessibility_service_description">نشا اے آئی کو صرف ہوم، بیک اور ریکنٹس نیویگیشن کی اجازت دیتا ہے۔ یہ اسکرین کا مواد نہیں پڑھ سکتا۔</string>
+
+    <string name="nav_chat">چیٹ</string>
+    <string name="nav_voice">آواز</string>
+    <string name="nav_actions">اقدامات</string>
+    <string name="nav_coding">کوڈنگ</string>
+    <string name="nav_history">تاریخ</string>
+    <string name="nav_settings">ترتیبات</string>
+    <string name="nav_about">متعلق</string>
+
+    <string name="send">بھیجیں</string>
+    <string name="cancel">منسوخ</string>
+    <string name="confirm">تصدیق</string>
+    <string name="save">محفوظ</string>
+    <string name="delete">حذف</string>
+    <string name="clear">صاف</string>
+    <string name="copy">نقل</string>
+    <string name="share">شیئر</string>
+    <string name="export">برآمد</string>
+    <string name="close">بند</string>
+    <string name="retry">دوبارہ کوشش</string>
+    <string name="dismiss">برخاست</string>
+    <string name="ok">ٹھیک</string>
+    <string name="skip">چھوڑیں</string>
+    <string name="next">اگلا</string>
+    <string name="back">پیچھے</string>
+    <string name="done">مکمل</string>
+    <string name="loading">لوڈ ہو رہا ہے…</string>
+    <string name="online">آن لائن</string>
+    <string name="offline">آف لائن</string>
+
+    <string name="chat_title">چیٹ</string>
+    <string name="chat_input_hint">پیغام لکھیں…</string>
+    <string name="chat_clear">چیٹ صاف کریں</string>
+    <string name="chat_read_aloud">بلند آواز میں پڑھیں</string>
+    <string name="chat_action_preview">اقدام کا پیش منظر</string>
+    <string name="chat_confirm_action">اقدام کی تصدیق</string>
+    <string name="chat_ai_suggestion_rejected">اے آئی کی تجویز مسترد</string>
+    <string name="chat_error_banner">خرابی</string>
+
+    <string name="voice_title">آواز اسسٹنٹ</string>
+    <string name="voice_start">سننا شروع کریں</string>
+    <string name="voice_stop">رکیں</string>
+    <string name="voice_use_in_chat">چیٹ میں استعمال کریں</string>
+
+    <string name="actions_title">اقدامات</string>
+    <string name="action_open_settings">اینڈرائیڈ ترتیبات کھولیں</string>
+    <string name="action_open_notification_settings">اطلاعات کی ترتیبات</string>
+    <string name="action_home">ہوم</string>
+    <string name="action_back">واپس</string>
+    <string name="action_recents">حالیہ</string>
+    <string name="action_open_app_picker">ایپ شارٹ کٹ شامل کریں</string>
+    <string name="action_risk_low">کم خطرہ</string>
+    <string name="action_risk_medium">درمیانہ خطرہ</string>
+    <string name="action_risk_high">زیادہ خطرہ</string>
+
+    <string name="settings_title">ترتیبات</string>
+    <string name="settings_section_provider">اے آئی پرووائیڈر</string>
+    <string name="settings_section_language">زبان</string>
+    <string name="settings_section_privacy">رازداری</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_urdu">اردو</string>
+    <string name="settings_language_roman_urdu">رومن اردو</string>
+
+    <string name="about_title">نشا اے آئی کے بارے میں</string>
+
+    <string name="onboarding_welcome">نشا اے آئی میں خوش آمدید</string>
+    <string name="onboarding_welcome_desc">آپ کا کثیر لسانی اے آئی اسسٹنٹ۔</string>
+</resources>
